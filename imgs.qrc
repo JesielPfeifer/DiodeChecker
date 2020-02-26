@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>imagens/G360_FPC_LCD.png</file>
+        <file>imagens/fpc_completo_g360m.jpeg</file>
+        <file>imagens/logo.jpeg</file>
+    </qresource>
+</RCC>
